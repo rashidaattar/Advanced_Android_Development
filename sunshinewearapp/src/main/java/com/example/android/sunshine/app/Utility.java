@@ -1,4 +1,4 @@
-package com.example.sunshinewearapp;
+package com.example.android.sunshine.app;
 
 /**
  * Created by 836137 on 24-10-2016.
